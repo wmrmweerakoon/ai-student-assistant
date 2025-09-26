@@ -1,6 +1,7 @@
 # AI Student Assistant
 
 ![AI Student Assistant Screenshot](https://github.com/wmrmweerakoon/ai-student-assistant/blob/main/Screenshot%202025-09-26%20142838.png?raw=true)
+![AI Student Assistant Screenshot](https://github.com/wmrmweerakoon/ai-student-assistant/blob/main/Screenshot%202025-09-26%20143117.png?raw=true)
 
 A React + Vite + TypeScript web app powered by **Google Gemini AI**.  
 It helps students with tasks like summarizing notes, generating study plans, and acting as a personal AI tutor.
