@@ -1,0 +1,5 @@
+{
+  "name": "AI Student Assistant",
+  "description": "An AI-powered application to assist students with tutoring, text summarization, and creating personalized study plans.",
+  "requestFramePermissions": []
+}
