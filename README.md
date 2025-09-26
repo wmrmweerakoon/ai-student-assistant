@@ -1,12 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# AI Student Assistant
 
-# Run and deploy your AI Studio app
+A React + Vite + TypeScript web app powered by **Google Gemini AI**.  
+It helps students with tasks like summarizing notes, generating study plans, and acting as a personal AI tutor.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1pPfIr6zB2eLlsSVqtUgpobiY3aEFv_ud
+## Features
+
+- **Text Summarizer** – Quickly summarize lecture notes and articles.  
+- **Study Planner** – Generate structured study plans tailored to your goals.  
+- **AI Tutor** – Ask questions and get explanations on any topic.  
+- **User-friendly UI** – Built with React + Tailwind CSS.  
+- **Fast and Modern** – Powered by Vite for lightning-fast development.
+
+---
 
 ## Run Locally
 
